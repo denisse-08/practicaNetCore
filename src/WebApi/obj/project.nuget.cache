@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/S3WVR+j9pAsl24xzgipUMTqnhC1voK0gPKgyK5E821UAVb3BTGAc8fUdUWEN7eEmA0ALCoz6ZZrrPRXb2e9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denisse\\Documents\\Nueva carpeta\\practica propia\\src\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denisse\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Denisse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
